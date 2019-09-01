@@ -1,4 +1,5 @@
 #import random as randint
+#This is the simple rock paper scissor game
 from random import randint
 print("WELCOME TO ROCK, PAPER, SCISSOR\n")
 player= input(" ROCK (r),Paper (p),Scissor (s)\n")
